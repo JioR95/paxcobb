@@ -1,5 +1,5 @@
 import React from "react";
-export default "MyComponent";
+
 
 const MyComponent = () => {
   return (
@@ -8,3 +8,4 @@ const MyComponent = () => {
     </div>
   );
 };
+export default MyComponent;
